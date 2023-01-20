@@ -24,6 +24,7 @@ keras: 将神经网络定义为一组顺序层的框架
 
 数据集
 ===
+- [ImageNet](https://paperswithcode.com/dataset/imagenet)
 - [JFT-300M](https://paperswithcode.com/dataset/jft-300m)
 ```
 Introduced by Sun et al. in Revisiting Unreasonable Effectiveness of Data in Deep Learning Era
