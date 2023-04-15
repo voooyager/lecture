@@ -19,6 +19,7 @@
 - [神经网络](https://www.cnblogs.com/subconscious/p/5058741.html)
 - [机器学习：五大流派、九大算法](https://www.51cto.com/article/704538.html)
 - [Andrew Ng](https://www.coursera.org/instructor/andrewng)
+- [Andrew Ng Coursera](https://www.andrewng.org/)
 ```
 keras: 将神经网络定义为一组顺序层的框架
 ```
