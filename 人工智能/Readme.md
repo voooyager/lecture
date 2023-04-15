@@ -12,6 +12,7 @@
 教程
 ===
 - [TensorFlow 进行神经网络编程](https://developers.google.com/learn/pathways/tensorflow?hl=zh-cn)
+- [机器学习入门教程 youtube]（https://www.youtube.com/watch?v=KXo8ZOa-dYg）
 - [Vision Transformer 超详细解读](https://zhuanlan.zhihu.com/p/340149804)
 - [keras](https://keras.io/)
 - [模式识别与机器学习](https://zhuanlan.zhihu.com/p/27195191)
