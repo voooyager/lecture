@@ -15,6 +15,7 @@
 - [Vision Transformer 超详细解读](https://zhuanlan.zhihu.com/p/340149804)
 - [keras](https://keras.io/)
 - [模式识别与机器学习](https://zhuanlan.zhihu.com/p/27195191)
+- [谷歌AI与ML](https://cloud.google.com/learn/artificial-intelligence-vs-machine-learning?hl=zh-cn)
 ```
 keras: 将神经网络定义为一组顺序层的框架
 ```
