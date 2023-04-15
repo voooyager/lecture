@@ -21,6 +21,7 @@
 - [机器学习：五大流派、九大算法](https://www.51cto.com/article/704538.html)
 - [Andrew Ng](https://www.coursera.org/instructor/andrewng)
 - [Andrew Ng Coursera](https://www.andrewng.org/)
+- [人工智能在台湾：产业转型的契机与挑战](https://www.youtube.com/watch?v=OddYM6aq-zM)
 ```
 keras: 将神经网络定义为一组顺序层的框架
 ```
