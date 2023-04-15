@@ -17,6 +17,7 @@
 - [模式识别与机器学习](https://zhuanlan.zhihu.com/p/27195191)
 - [谷歌AI与ML](https://cloud.google.com/learn/artificial-intelligence-vs-machine-learning?hl=zh-cn)
 - [神经网络](https://www.cnblogs.com/subconscious/p/5058741.html)
+- [机器学习：五大流派、九大算法](https://www.51cto.com/article/704538.html)
 ```
 keras: 将神经网络定义为一组顺序层的框架
 ```
