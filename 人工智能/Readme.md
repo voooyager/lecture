@@ -30,6 +30,9 @@ AI应用
 ```
 keras: 将神经网络定义为一组顺序层的框架
 ```
+工具
+==
+- [cnn-explorer](https://poloclub.github.io/cnn-explainer/)
 
 算法模型
 ===
