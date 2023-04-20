@@ -27,6 +27,7 @@ AI应用
 - [Andrew Ng Coursera](https://www.andrewng.org/)
 - [人工智能在台湾：产业转型的契机与挑战](https://www.youtube.com/watch?v=OddYM6aq-zM)
 - [easyAI](https://easyai.tech/ai-definition/machine-learning/)
+- [CNN](https://www.youtube.com/watch?v=vi9eNd9CPnk)
 ```
 keras: 将神经网络定义为一组顺序层的框架
 ```
